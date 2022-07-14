@@ -1,6 +1,6 @@
 # lablebwallet
 
-A wallet built on the algrand network
+A wallet build on the algrand network
 Where you can send and receive cryptocurrencies and store them on the network
 
 <h1>build owner wallet on algrand network</h1>
