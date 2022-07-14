@@ -1,16 +1,9 @@
 # lablebwallet
 
-A new Flutter project.
+A wallet built on the algrand network
+Where you can send and receive cryptocurrencies and store them on the network
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</br>
+</br>
+</br>
+<img src="/screenShot/2022-07-14_16-55-12.gif"></img>
